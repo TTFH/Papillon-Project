@@ -1,0 +1,13 @@
+> /Wind/authorize
+> /Wind/save/ev_login
+> /Wind/player | getRecoveryInfo
+> /Wind/player | getNews
+> /Wind/player | getRankingRegulation
+> /Wind/save/ev_load_save_success
+> /Wind/save/accum_data
+> /Wind/save/ev_pinger
+> /Wind/save/ev_rreport_aircraft
+> /Wind/save/ev_load_save_success
+> /Wind/save/ev_dev_aircraft
+> /Wind/save/ev_matching_result
+etc...
