@@ -5,9 +5,12 @@
 > /Wind/player | getRankingRegulation
 > /Wind/save/ev_load_save_success
 > /Wind/save/accum_data
-> /Wind/save/ev_pinger
-> /Wind/save/ev_rreport_aircraft
-> /Wind/save/ev_load_save_success
-> /Wind/save/ev_dev_aircraft
 > /Wind/save/ev_matching_result
-etc...
+> /Wind/save/ev_enter_room
+> /Wind/save/ev_rreport_aircraft
+> /Wind/save/ev_dev_aircraft
+> /Wind/save/ev_sortie
+> /Wind/save/ev_objective_end
+> /Wind/save/ev_pinger
+> /Wind/save/ev_mission_result
+> /Wind/save/ev_link_dead

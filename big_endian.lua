@@ -12,7 +12,7 @@ function BE2ValueToBytes(val)
 	return b1, b2
 end
 
-local BE2Type = registerCustomTypeLua(
+registerCustomTypeLua(
 	"2 Byte Big Endian",
 	2,
 	BE2BytesToValue,
@@ -37,7 +37,7 @@ function BE4ValueToBytes(val)
 	return b1, b2, b3, b4
 end
 
-local BE4Type = registerCustomTypeLua(
+registerCustomTypeLua(
 	"4 Byte Big Endian",
 	4,
 	BE4BytesToValue,
